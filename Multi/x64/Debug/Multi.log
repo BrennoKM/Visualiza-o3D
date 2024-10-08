@@ -1,0 +1,32 @@
+﻿  Multi.cpp
+C:\Users\brenn\Desktop\Multi\Multi\Multi.cpp(459,38): warning C4267: '=': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\brenn\Desktop\Multi\Multi\Multi.cpp(478,38): warning C4267: '=': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\brenn\Desktop\Multi\Multi\Multi.cpp(497,38): warning C4267: '=': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\brenn\Desktop\Multi\Multi\Multi.cpp(516,38): warning C4267: '=': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\brenn\Desktop\Multi\Multi\Multi.cpp(535,38): warning C4267: '=': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\brenn\Desktop\Multi\Multi\Multi.cpp(551,38): warning C4267: '=': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\brenn\Desktop\Multi\Multi\Multi.cpp(563,86): warning C4267: 'argumento': conversão de 'size_t' para 'uint', possível perda de dados
+C:\Users\brenn\Desktop\Multi\Multi\Multi.cpp(564,83): warning C4267: 'argumento': conversão de 'size_t' para 'uint', possível perda de dados
+C:\Users\brenn\Desktop\Multi\Multi\Multi.cpp(566,61): warning C4267: '=': conversão de 'size_t' para 'uint', possível perda de dados
+C:\Users\brenn\Desktop\Multi\Multi\Multi.cpp(569,38): warning C4267: '=': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\brenn\Desktop\Multi\Multi\Multi.cpp(579,95): warning C4267: 'argumento': conversão de 'size_t' para 'uint', possível perda de dados
+C:\Users\brenn\Desktop\Multi\Multi\Multi.cpp(580,92): warning C4267: 'argumento': conversão de 'size_t' para 'uint', possível perda de dados
+C:\Users\brenn\Desktop\Multi\Multi\Multi.cpp(582,67): warning C4267: '=': conversão de 'size_t' para 'uint', possível perda de dados
+C:\Users\brenn\Desktop\Multi\Multi\Multi.cpp(585,38): warning C4267: '=': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\brenn\Desktop\Multi\Multi\Multi.cpp(595,89): warning C4267: 'argumento': conversão de 'size_t' para 'uint', possível perda de dados
+C:\Users\brenn\Desktop\Multi\Multi\Multi.cpp(596,86): warning C4267: 'argumento': conversão de 'size_t' para 'uint', possível perda de dados
+C:\Users\brenn\Desktop\Multi\Multi\Multi.cpp(598,63): warning C4267: '=': conversão de 'size_t' para 'uint', possível perda de dados
+C:\Users\brenn\Desktop\Multi\Multi\Multi.cpp(601,38): warning C4267: '=': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\brenn\Desktop\Multi\Multi\Multi.cpp(611,92): warning C4267: 'argumento': conversão de 'size_t' para 'uint', possível perda de dados
+C:\Users\brenn\Desktop\Multi\Multi\Multi.cpp(612,89): warning C4267: 'argumento': conversão de 'size_t' para 'uint', possível perda de dados
+C:\Users\brenn\Desktop\Multi\Multi\Multi.cpp(614,65): warning C4267: '=': conversão de 'size_t' para 'uint', possível perda de dados
+C:\Users\brenn\Desktop\Multi\Multi\Multi.cpp(617,38): warning C4267: '=': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\brenn\Desktop\Multi\Multi\Multi.cpp(627,92): warning C4267: 'argumento': conversão de 'size_t' para 'uint', possível perda de dados
+C:\Users\brenn\Desktop\Multi\Multi\Multi.cpp(628,89): warning C4267: 'argumento': conversão de 'size_t' para 'uint', possível perda de dados
+C:\Users\brenn\Desktop\Multi\Multi\Multi.cpp(630,65): warning C4267: '=': conversão de 'size_t' para 'uint', possível perda de dados
+C:\Users\brenn\Desktop\Multi\Multi\Multi.cpp(633,38): warning C4267: '=': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\brenn\Desktop\Multi\Multi\Multi.cpp(643,74): warning C4267: 'argumento': conversão de 'size_t' para 'uint', possível perda de dados
+C:\Users\brenn\Desktop\Multi\Multi\Multi.cpp(644,71): warning C4267: 'argumento': conversão de 'size_t' para 'uint', possível perda de dados
+C:\Users\brenn\Desktop\Multi\Multi\Multi.cpp(646,53): warning C4267: '=': conversão de 'size_t' para 'uint', possível perda de dados
+C:\Users\brenn\Desktop\Multi\Multi\Multi.cpp(649,38): warning C4267: '=': conversão de 'size_t' para 'int', possível perda de dados
+  Multi.vcxproj -> C:\Users\brenn\Desktop\Multi\x64\Debug\Multi.exe
